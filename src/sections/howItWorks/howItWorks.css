@@ -1,0 +1,30 @@
+.how-it-works-section {
+  margin: 130px 0px 130px 0px;
+}
+
+.section-title {
+  width: 320px;
+  height: 72px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 150%;
+  text-transform: capitalize;
+  color: #000000;
+}
+
+.how-it-works-image {
+  width: 400px;
+  height: 423px;
+}
+
+.terms-description {
+  width: 282px;
+  height: 48px;
+}
+
+.how-it-works-terms-right .how-it-works-terms-part .terms-details {
+  margin-left: 15px;
+}
