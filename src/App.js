@@ -10,6 +10,8 @@ function App() {
       <Hero></Hero>
       <About></About>
       <HowItWorks></HowItWorks>
+
+      <h1>Check the enam branch</h1>
       <VideoGallery></VideoGallery>
     </div>
   );
